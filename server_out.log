@@ -1,0 +1,12 @@
+Conectado a MongoDB Atlas (db: auth, colección: users)
+Servidor corriendo en http://127.0.0.1:8000
+[127.0.0.1] "GET /register HTTP/1.1" 200 -
+[127.0.0.1] "GET / HTTP/1.1" 200 -
+[127.0.0.1] "POST /register HTTP/1.1" 200 -
+[127.0.0.1] "GET /verify?email=vartaxplay@gmail.com HTTP/1.1" 200 -
+[SMTP] Código enviado a vartaxplay@gmail.com
+[127.0.0.1] "POST /verify HTTP/1.1" 200 -
+[127.0.0.1] "GET / HTTP/1.1" 200 -
+[127.0.0.1] "POST /login HTTP/1.1" 200 -
+[127.0.0.1] "GET /dashboard HTTP/1.1" 200 -
+[127.0.0.1] "GET / HTTP/1.1" 200 -
