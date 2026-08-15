@@ -4,7 +4,7 @@
 
 Puedes acceder al archivo de este proyecto directamente desde GitHub usando la siguiente URL:
 
-🔗 **https://github.com/VartaxOficial/AnubisTec/edit/main/README.md**
+🔗 **https://github.com/VartaxOficial/AnubisTec/tree/main**
 
 Esta URL te permite visualizar y editar este documento en línea. Para **clonar o descargar** el repositorio completo, sigue los pasos de la sección **"Paso a paso"** que encontrarás más abajo.
 
